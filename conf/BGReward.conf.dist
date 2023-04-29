@@ -29,7 +29,7 @@
 #        	     1  - (Enable)
 #
 
-Battleground.Reward.Enable = 0
+Battleground.Reward.Enable = 1
 
 #
 #    Battleground.Reward.WinnerTeam.Count
